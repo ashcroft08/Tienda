@@ -14,7 +14,7 @@
                 <li class="px-2"><a href="#" class="text-white">INICIO</a></li>
                 <li class="px-2"> <a href="#" class="text-white">PRODUCTOS</a></li>
                 <li class="px-2"> <a href="#" class="text-white">NOSOTROS</a></li>
-                <li class="px-2"> <a href="#" class="text-white">LOGIN</a></li>
+                <li class="px-2"> <a href="{{route('indexLogin')}}" class="text-white">LOGIN</a></li>
                 <li class="px-2"> <a href="#" class="text-white">REGISTRARSE</a></li>
             </ul>    
         </div>
