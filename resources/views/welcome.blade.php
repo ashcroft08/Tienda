@@ -8,7 +8,7 @@
 </head>
 <body>
 {{-- Sección Header --}}
-@include('layouts.header')
+@include('layouts.nav')
 
     <div class="container border m-4 p-10">
         <div class="overflow-x-auto">
