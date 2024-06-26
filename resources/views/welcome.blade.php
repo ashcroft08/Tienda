@@ -7,15 +7,17 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <!-- Before extracting a custom class -->
-<button class="py-2 px-5 bg-violet-500 text-white font-semibold rounded-full shadow-md hover:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-400 focus:ring-opacity-75">
-  Save changes
-</button>
-
-<!-- After extracting a custom class -->
-<button class="btn-primary">
-  Save changes
-</button>
-<h1>PUTO EL QEU LO ELA</h1>
+    <nav class="bg-teal-500 p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <a class="border" href="">LOGO</a>
+            <ul class="flex space-x-4">
+                <li class="px-2"><a href="#" class="text-white">INICIO</a></li>
+                <li class="px-2"> <a href="#" class="text-white">PRODUCTOS</a></li>
+                <li class="px-2"> <a href="#" class="text-white">NOSOTROS</a></li>
+                <li class="px-2"> <a href="#" class="text-white">LOGIN</a></li>
+                <li class="px-2"> <a href="#" class="text-white">REGISTRARSE</a></li>
+            </ul>    
+        </div>
+    </nav>
 </body>
 </html>
