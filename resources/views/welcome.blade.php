@@ -12,12 +12,20 @@
             <a class="border" href="">LOGO</a>
             <ul class="flex space-x-4">
                 <li class="px-2"><a href="#" class="text-white">INICIO</a></li>
-                <li class="px-2"> <a href="#" class="text-white">PRODUCTOS</a></li>
+                <li class="px-2"> <a href="#" class="text-white">COMPRA</a></li>
                 <li class="px-2"> <a href="#" class="text-white">NOSOTROS</a></li>
                 <li class="px-2"> <a href="#" class="text-white">LOGIN</a></li>
                 <li class="px-2"> <a href="#" class="text-white">REGISTRARSE</a></li>
             </ul>    
         </div>
     </nav>
+
+    <div class="container border m-4 p-10">
+        <div class="overflow-x-auto">
+            <div class="flex space-x-4">
+                <img src="" alt="">
+            </div>
+        </div>
+    </div>
 </body>
 </html>
